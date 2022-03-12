@@ -1,5 +1,5 @@
 # node-challenge
-Node Challege - Made with by Code Club - Rodolfo Mori
+Node Challege - Made with by Dev Club - Rodolfo Mori
 
 ### Ajustes e melhorias
 
